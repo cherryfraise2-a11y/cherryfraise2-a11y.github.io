@@ -2,7 +2,7 @@
 // Caches the app shell and all four project files so the app keeps
 // working fully offline after the very first successful visit.
 
-const CACHE_NAME = "francais-5ap-v1";
+const CACHE_NAME = "francais-5ap-v2";
 const FILES_TO_CACHE = [
   "./index.html",
   "./manifest.json",
